@@ -20,7 +20,7 @@ Projekte und Sachen aus der Ausbildung.
 
 ### Ein paar Repos
 
-**[ProductionInventoryManager](https://github.com/BelaSchrammDev/ProductionInventoryManager)**
+**[ProductionInventoryManager](https://github.com/BelaSchrammDev/PIM1.0)**
 – C#-Skript für Space Engineers, steuert Produktion und Lagerlogistik im Spiel.
 Liegt im Steam Workshop und wird von fremden Leuten benutzt, was die interessantere
 Erfahrung war als das Schreiben selbst.
