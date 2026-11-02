@@ -3,7 +3,7 @@
 Softwareentwickler in Leipzig, Schwerpunkt C# / .NET.
 
 Ich bin über einen Umweg hier gelandet: knapp 30 Jahre CNC-Programmierung und
-Fertigungsplanung, u.a. mit Verantwortung für Technologie und Team. Programmiert
+Fertigungsplanung, u. a. mit Verantwortung für Technologie und Team. Programmiert
 habe ich nebenbei immer, irgendwann war klar, dass ich das hauptberuflich machen will.
 2023/24 Front-End-Ausbildung an der Developer Akademie, seit März 2025 als Entwickler
 bei der Wiesecker Group.
